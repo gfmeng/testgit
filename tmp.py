@@ -2,7 +2,6 @@
 """
 Created on Thu Mar  9 13:42:24 2017
 
-@author: workspace
 """
 
 from keras.layers import Input, Dense, Reshape, Flatten, Embedding, merge, Dropout
