@@ -7,5 +7,5 @@ being revised on dev branch
 push to cpan
 push to server test project
 push to server workspace using password not key
-
+test adding operations of git
 
